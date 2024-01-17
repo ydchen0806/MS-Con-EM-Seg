@@ -1,4 +1,4 @@
-# Muti-Consistensy
+# MS-Con-EM-Seg
 This is an official implement for Learning Multiscale Consistency for Self-supervised Electron Microscopy Instance Segmentation (ICASSP 24)
 [\<Paper Link\>](https://arxiv.org/abs/2308.09917)
 
@@ -44,8 +44,8 @@ python finetune.py -c seg_3d -m train -w [your pretrained path]
 @article{chen2023learning,
   title={Learning multiscale consistency for self-supervised electron microscopy instance segmentation},
   author={Chen, Yinda and Huang, Wei and Liu, Xiaoyu and Chen, Qi and Xiong, Zhiwei},
-  journal={arXiv preprint arXiv:2308.09917},
-  year={2023}
+  journal={ICASSP 24},
+  year={2024}
 }
 ```
 # Contact 
