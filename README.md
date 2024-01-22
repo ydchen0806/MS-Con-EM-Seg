@@ -43,7 +43,7 @@ python finetune.py -c seg_3d -m train -w [your pretrained path]
 ```
 @article{chen2023learning,
   title={Learning multiscale consistency for self-supervised electron microscopy instance segmentation},
-  author={Chen, Yinda and Huang, Wei and Liu, Xiaoyu and Chen, Qi and Xiong, Zhiwei},
+  author={Chen, Yinda and Huang, Wei and Liu, Xiaoyu and Deng, Shiyu and Chen, Qi and Xiong, Zhiwei},
   journal={ICASSP 24},
   year={2024}
 }
