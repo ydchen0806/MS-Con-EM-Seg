@@ -1,0 +1,35 @@
+network:
+  decoder: 'yes'
+  img_model: mamba
+  patch_size: 96
+  feature_size: 48
+  att_pool_head: 1
+  unet_out_channel: 3
+
+  projection_head:
+    mlp_hidden_size: 768
+    projection_size: 256
+
+# add your dir here
+csv_path: 
+  meta_path: '/h3cstore_ns/CT_data/curated_ct_report_path_En.csv' 
+  ct_dir: '/h3cstore_ns/CT_data/CT_retrieval'
+  save_path: '/h3cstore_ns/EM_pretrain/mamba_pretrain_0210_64_128_128'
+# params for trainer
+trainer:
+  batch_size: 8
+  step_limit: 50000
+  max_epochs: 20000
+  lr: 2.0e-5
+  num_workers: 4
+  log_interval: 50
+
+optimizer:
+  params:
+    lr: 2.0e-5
+    # momentum: 0.9
+    weight_decay: 5.0e-2
+
+# your model name
+wandb_name: 'const_no_text'
+save_name: 'total_mambapool3090_no_mambapool'

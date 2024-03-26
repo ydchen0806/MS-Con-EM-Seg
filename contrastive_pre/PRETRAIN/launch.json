@@ -1,0 +1,87 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: infer",
+            "type": "python",
+            "request": "launch",
+            "program": "/opt/conda/lib/python3.7/site-packages/torch/distributed/launch.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--nproc_per_node=2",
+                "/data/ydchen/VLP/mae-main/main_inference_total.py",
+                "--batch_size=48",
+                "--warmup_epochs=0",
+                "--model=mae_vit_base_patch14_deeper",
+                "--pretrain_path=/h3cstore_ns/screen_out2/results_base14_deep_dis_a40_32/checkpoint-380.pth",
+                "--hdf_save_dir=/h3cstore_ns/screen_out2/results_base14_deep_dis_a40_32/inference",
+                "--epochs=400"
+                // "--do_eval",
+                // "--num_thread_reader=0",
+                // "--epochs=5",
+                // "--batch_size=96",
+                // "--n_display=50",
+                // "--train_csv",
+                // "/braindat/lab/chenyd/DATASET/MSRVTT_video/msrvtt_data/MSRVTT_train.9k.csv",
+                // "--val_csv",
+                // "/braindat/lab/chenyd/DATASET/MSRVTT_video/msrvtt_data/MSRVTT_JSFUSION_test.csv",
+                // "--data_path",
+                // "/braindat/lab/chenyd/DATASET/MSRVTT_video/msrvtt_data/MSRVTT_data.json",
+                // "--features_path",
+                // "/braindat/lab/chenyd/DATASET/MSRVTT_video/MSRVTT/videos/all",
+                // "--output_dir",
+                // "/braindat/lab/chenyd/code_230508/CLIP4Clip/msrvtt_exps0721_1",
+                // "--lr",
+                // "1e-4",
+                // "--max_words",
+                // "32",
+                // "--max_frames",
+                // "12",
+                // "--batch_size_val",
+                // "16",
+                // "--datatype",
+                // "msrvtt",
+                // "--expand_msrvtt_sentences",
+                // "--feature_framerate",
+                // "1",
+                // "--coef_lr",
+                // "1e-3",
+                // "--freeze_layer_num",
+                // "0",
+                // "--slice_framepos",
+                // "2",
+            ],
+            "cwd": "/data/ydchen/VLP/mae-main"
+        },
+        {
+            "name": "Python: ddp",
+            "type": "python",
+            "request": "launch",
+            "program": "/usr/local/lib/python3.8/dist-packages/torch/distributed/launch.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--nproc_per_node=2",
+                "/data/ydchen/VLP/EM_Mamba/contrastive_pre/PRETRAIN/main3d.py",
+                // "--batch_size=1",
+                // "--warmup_epochs=0",
+                // "--model=mae_vit_base_patch16_EM",
+                // "--pretrain_path=",
+                // "--epochs=400"
+            ],
+            "env": {
+                "NCCL_SOCKET_IFNAME": "eth0"
+            }
+        },
+        {
+            "name": "Python: 当前文件",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}

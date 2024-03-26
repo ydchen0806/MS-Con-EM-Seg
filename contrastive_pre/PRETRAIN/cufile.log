@@ -1,0 +1,324 @@
+ 09-09-2023 19:50:34:509 [pid=1077190 tid=1077190] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 19:51:31:986 [pid=1078201 tid=1078201] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 19:51:58:161 [pid=1078607 tid=1078607] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 19:55:02:509 [pid=1080586 tid=1080586] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 19:56:02:604 [pid=1081662 tid=1081662] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 20:01:03:305 [pid=1083628 tid=1083628] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 20:06:43:793 [pid=1085625 tid=1085625] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 20:10:24:363 [pid=1087466 tid=1087466] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 20:11:34:447 [pid=1088455 tid=1088455] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 20:14:58:511 [pid=1090051 tid=1090051] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 09-09-2023 20:14:58:512 [pid=1090051 tid=1090051] ERROR  cufio:538 cuFile initialization failed
+ 09-09-2023 20:17:47:831 [pid=1091023 tid=1091023] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 09-09-2023 20:17:47:831 [pid=1091023 tid=1091023] ERROR  cufio:538 cuFile initialization failed
+ 09-09-2023 20:27:06:703 [pid=1092393 tid=1092393] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 09-09-2023 20:27:06:703 [pid=1092393 tid=1092393] ERROR  cufio:538 cuFile initialization failed
+ 09-09-2023 20:29:04:3 [pid=1093287 tid=1093287] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 09-09-2023 20:29:04:3 [pid=1093287 tid=1093287] ERROR  cufio:538 cuFile initialization failed
+ 09-09-2023 20:30:06:593 [pid=1094809 tid=1094809] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 20:33:44:688 [pid=1096400 tid=1096400] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 09-09-2023 20:33:44:688 [pid=1096400 tid=1096400] ERROR  cufio:538 cuFile initialization failed
+ 09-09-2023 20:35:12:87 [pid=1097651 tid=1097651] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 09-09-2023 20:35:12:87 [pid=1097651 tid=1097651] ERROR  cufio:538 cuFile initialization failed
+ 09-09-2023 20:37:21:975 [pid=1098952 tid=1098952] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 09-09-2023 20:37:21:975 [pid=1098952 tid=1098952] ERROR  cufio:538 cuFile initialization failed
+ 09-09-2023 20:38:13:448 [pid=1099779 tid=1099779] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 09-09-2023 20:38:13:448 [pid=1099779 tid=1099779] ERROR  cufio:538 cuFile initialization failed
+ 09-09-2023 20:40:31:923 [pid=1101071 tid=1101071] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 09-09-2023 20:40:31:923 [pid=1101071 tid=1101071] ERROR  cufio:538 cuFile initialization failed
+ 09-09-2023 20:41:26:119 [pid=1102156 tid=1102156] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 09-09-2023 20:41:26:119 [pid=1102156 tid=1102156] ERROR  cufio:538 cuFile initialization failed
+ 09-09-2023 20:42:28:109 [pid=1103808 tid=1103808] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 20:45:50:828 [pid=1105368 tid=1105368] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 20:48:40:982 [pid=1106846 tid=1106846] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 20:48:40:986 [pid=1106847 tid=1106847] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 20:51:49:831 [pid=1107921 tid=1107921] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 20:51:49:840 [pid=1107922 tid=1107922] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 20:57:20:659 [pid=1110460 tid=1110460] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 20:57:20:664 [pid=1110459 tid=1110459] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:06:04:850 [pid=1113697 tid=1113697] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:06:04:878 [pid=1113695 tid=1113695] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:06:04:881 [pid=1113696 tid=1113696] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:06:04:886 [pid=1113699 tid=1113699] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:06:04:886 [pid=1113698 tid=1113698] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:06:04:888 [pid=1113694 tid=1113694] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:11:03:95 [pid=1118619 tid=1118619] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:11:03:118 [pid=1118618 tid=1118618] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:11:03:128 [pid=1118617 tid=1118617] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:11:03:149 [pid=1118622 tid=1118622] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:11:03:169 [pid=1118621 tid=1118621] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:11:03:176 [pid=1118620 tid=1118620] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:17:36:481 [pid=1123586 tid=1123586] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:17:36:596 [pid=1123585 tid=1123585] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:17:36:616 [pid=1123587 tid=1123587] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:17:36:618 [pid=1123584 tid=1123584] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:17:36:629 [pid=1123589 tid=1123589] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:17:36:630 [pid=1123588 tid=1123588] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:25:55:468 [pid=1129352 tid=1129352] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:25:55:507 [pid=1129356 tid=1129356] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:25:55:542 [pid=1129353 tid=1129353] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:25:55:542 [pid=1129355 tid=1129355] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:25:55:543 [pid=1129354 tid=1129354] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:25:55:575 [pid=1129357 tid=1129357] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:28:50:557 [pid=1112104 tid=1112104] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 09-09-2023 21:28:50:557 [pid=1112104 tid=1112104] ERROR  cufio:538 cuFile initialization failed
+ 09-09-2023 21:33:59:348 [pid=1135858 tid=1135858] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:33:59:377 [pid=1135853 tid=1135853] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:33:59:383 [pid=1135855 tid=1135855] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:33:59:403 [pid=1135857 tid=1135857] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:33:59:454 [pid=1135856 tid=1135856] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:33:59:460 [pid=1135854 tid=1135854] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:35:10:646 [pid=1139701 tid=1139701] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 09-09-2023 21:35:10:646 [pid=1139701 tid=1139701] ERROR  cufio:538 cuFile initialization failed
+ 09-09-2023 21:35:57:365 [pid=1141260 tid=1141260] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:35:57:370 [pid=1141262 tid=1141262] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:35:57:407 [pid=1141261 tid=1141261] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:35:57:442 [pid=1141264 tid=1141264] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:35:57:448 [pid=1141263 tid=1141263] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:35:57:449 [pid=1141259 tid=1141259] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:41:52:663 [pid=1146844 tid=1146844] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:41:52:831 [pid=1146839 tid=1146839] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:41:52:848 [pid=1146841 tid=1146841] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:41:52:848 [pid=1146843 tid=1146843] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:41:52:849 [pid=1146840 tid=1146840] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:41:52:849 [pid=1146842 tid=1146842] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:48:00:994 [pid=1151929 tid=1151929] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:48:01:42 [pid=1151932 tid=1151932] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:48:01:50 [pid=1151931 tid=1151931] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:48:01:55 [pid=1151934 tid=1151934] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:48:01:57 [pid=1151933 tid=1151933] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:48:01:58 [pid=1151930 tid=1151930] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:55:11:607 [pid=1157855 tid=1157855] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:55:11:693 [pid=1157857 tid=1157857] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:55:11:696 [pid=1157858 tid=1157858] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:55:11:754 [pid=1157859 tid=1157859] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:55:11:756 [pid=1157856 tid=1157856] NOTICE  cufio-drv:636 running in compatible mode
+ 09-09-2023 21:55:11:756 [pid=1157860 tid=1157860] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 09:29:50:630 [pid=1234564 tid=1234564] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 09:50:47:844 [pid=1238090 tid=1238090] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 09:50:47:844 [pid=1238091 tid=1238091] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 09:50:47:849 [pid=1238094 tid=1238094] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 09:50:47:864 [pid=1238089 tid=1238089] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 09:50:47:869 [pid=1238093 tid=1238093] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 09:50:47:874 [pid=1238092 tid=1238092] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 09:56:28:320 [pid=1242168 tid=1242168] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 09:56:28:331 [pid=1242171 tid=1242171] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 09:56:28:334 [pid=1242170 tid=1242170] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 09:56:28:344 [pid=1242172 tid=1242172] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 09:56:28:349 [pid=1242167 tid=1242167] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 09:56:28:349 [pid=1242169 tid=1242169] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 10:06:49:453 [pid=1248250 tid=1248250] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 10:06:49:517 [pid=1248247 tid=1248247] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 10:06:49:544 [pid=1248245 tid=1248245] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 10:06:49:544 [pid=1248246 tid=1248246] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 10:06:49:544 [pid=1248248 tid=1248248] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 10:06:49:544 [pid=1248249 tid=1248249] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 10:12:59:113 [pid=1253655 tid=1253655] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 10:12:59:132 [pid=1253657 tid=1253657] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 10:12:59:165 [pid=1253658 tid=1253658] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 10:12:59:188 [pid=1253656 tid=1253656] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 10:12:59:194 [pid=1253654 tid=1253654] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 10:12:59:194 [pid=1253653 tid=1253653] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 20:39:21:421 [pid=1318772 tid=1318772] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 20:39:21:460 [pid=1318771 tid=1318771] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 20:39:21:483 [pid=1318770 tid=1318770] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 20:39:21:484 [pid=1318774 tid=1318774] NOTICE  cufio-drv:636 running in compatible mode
+ 10-09-2023 20:39:21:496 [pid=1318773 tid=1318773] NOTICE  cufio-drv:636 running in compatible mode
+ 11-09-2023 22:51:27:954 [pid=1554256 tid=1554256] NOTICE  cufio-drv:636 running in compatible mode
+ 11-09-2023 22:51:27:969 [pid=1554255 tid=1554255] NOTICE  cufio-drv:636 running in compatible mode
+ 11-09-2023 22:51:27:992 [pid=1554253 tid=1554253] NOTICE  cufio-drv:636 running in compatible mode
+ 11-09-2023 22:51:27:992 [pid=1554254 tid=1554254] NOTICE  cufio-drv:636 running in compatible mode
+ 11-09-2023 22:55:08:257 [pid=1559039 tid=1559039] NOTICE  cufio-drv:636 running in compatible mode
+ 11-09-2023 22:55:08:260 [pid=1559038 tid=1559038] NOTICE  cufio-drv:636 running in compatible mode
+ 11-09-2023 22:55:08:305 [pid=1559040 tid=1559040] NOTICE  cufio-drv:636 running in compatible mode
+ 11-09-2023 22:58:44:669 [pid=1562088 tid=1562088] NOTICE  cufio-drv:636 running in compatible mode
+ 11-09-2023 22:58:44:688 [pid=1562089 tid=1562089] NOTICE  cufio-drv:636 running in compatible mode
+ 11-09-2023 22:58:44:694 [pid=1562087 tid=1562087] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 07:07:48:987 [pid=1622465 tid=1622465] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 07:07:49:49 [pid=1622467 tid=1622467] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 07:07:49:61 [pid=1622464 tid=1622464] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 07:07:49:70 [pid=1622466 tid=1622466] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 07:07:49:72 [pid=1622463 tid=1622463] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 07:07:49:75 [pid=1622462 tid=1622462] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 18:22:55:7 [pid=1678752 tid=1678752] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 18:22:55:14 [pid=1678756 tid=1678756] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 18:22:55:15 [pid=1678755 tid=1678755] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 18:22:55:177 [pid=1678753 tid=1678753] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 18:22:55:278 [pid=1678754 tid=1678754] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 18:24:12:802 [pid=1681015 tid=1681015] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 18:24:12:825 [pid=1681019 tid=1681019] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 18:24:12:844 [pid=1681018 tid=1681018] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 18:24:12:848 [pid=1681016 tid=1681016] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 18:24:12:856 [pid=1681017 tid=1681017] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 18:24:12:886 [pid=1681020 tid=1681020] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 18:27:26:718 [pid=1685522 tid=1685522] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 18:27:26:744 [pid=1685524 tid=1685524] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 18:27:26:759 [pid=1685525 tid=1685525] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 18:27:26:759 [pid=1685523 tid=1685523] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 18:27:26:759 [pid=1685527 tid=1685527] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 18:27:26:760 [pid=1685526 tid=1685526] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 20:19:23:60 [pid=1702898 tid=1702898] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 20:19:23:85 [pid=1702899 tid=1702899] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 20:19:23:115 [pid=1702902 tid=1702902] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 20:19:23:147 [pid=1702897 tid=1702897] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 20:19:23:147 [pid=1702900 tid=1702900] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 20:19:23:148 [pid=1702901 tid=1702901] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 20:24:21:790 [pid=1707925 tid=1707925] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 20:24:21:819 [pid=1707926 tid=1707926] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 20:24:21:836 [pid=1707927 tid=1707927] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 20:24:21:837 [pid=1707929 tid=1707929] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 20:24:21:860 [pid=1707928 tid=1707928] NOTICE  cufio-drv:636 running in compatible mode
+ 12-09-2023 20:24:21:869 [pid=1707930 tid=1707930] NOTICE  cufio-drv:636 running in compatible mode
+ 13-09-2023 07:00:39:77 [pid=1764303 tid=1764303] NOTICE  cufio-drv:636 running in compatible mode
+ 13-09-2023 07:00:39:219 [pid=1764299 tid=1764299] NOTICE  cufio-drv:636 running in compatible mode
+ 13-09-2023 07:00:39:246 [pid=1764302 tid=1764302] NOTICE  cufio-drv:636 running in compatible mode
+ 13-09-2023 07:00:39:246 [pid=1764304 tid=1764304] NOTICE  cufio-drv:636 running in compatible mode
+ 13-09-2023 07:00:39:246 [pid=1764300 tid=1764300] NOTICE  cufio-drv:636 running in compatible mode
+ 13-09-2023 07:00:39:247 [pid=1764301 tid=1764301] NOTICE  cufio-drv:636 running in compatible mode
+ 13-09-2023 07:03:08:952 [pid=1765735 tid=1765735] NOTICE  cufio-drv:636 running in compatible mode
+ 13-09-2023 07:03:09:74 [pid=1765731 tid=1765731] NOTICE  cufio-drv:636 running in compatible mode
+ 13-09-2023 07:03:09:95 [pid=1765732 tid=1765732] NOTICE  cufio-drv:636 running in compatible mode
+ 13-09-2023 07:03:09:113 [pid=1765734 tid=1765734] NOTICE  cufio-drv:636 running in compatible mode
+ 13-09-2023 07:03:09:114 [pid=1765733 tid=1765733] NOTICE  cufio-drv:636 running in compatible mode
+ 13-09-2023 07:03:09:114 [pid=1765730 tid=1765730] NOTICE  cufio-drv:636 running in compatible mode
+ 13-09-2023 07:08:09:688 [pid=1770615 tid=1770615] NOTICE  cufio-drv:636 running in compatible mode
+ 13-09-2023 07:08:09:690 [pid=1770620 tid=1770620] NOTICE  cufio-drv:636 running in compatible mode
+ 13-09-2023 07:08:09:707 [pid=1770618 tid=1770618] NOTICE  cufio-drv:636 running in compatible mode
+ 13-09-2023 07:08:09:708 [pid=1770619 tid=1770619] NOTICE  cufio-drv:636 running in compatible mode
+ 13-09-2023 07:08:09:709 [pid=1770617 tid=1770617] NOTICE  cufio-drv:636 running in compatible mode
+ 13-09-2023 07:08:09:712 [pid=1770616 tid=1770616] NOTICE  cufio-drv:636 running in compatible mode
+ 15-09-2023 15:22:17:343 [pid=18912 tid=18912] NOTICE  cufio-drv:636 running in compatible mode
+ 15-09-2023 15:22:17:369 [pid=18916 tid=18916] NOTICE  cufio-drv:636 running in compatible mode
+ 15-09-2023 15:22:17:373 [pid=18914 tid=18914] NOTICE  cufio-drv:636 running in compatible mode
+ 15-09-2023 15:22:17:386 [pid=18913 tid=18913] NOTICE  cufio-drv:636 running in compatible mode
+ 15-09-2023 15:22:17:391 [pid=18915 tid=18915] NOTICE  cufio-drv:636 running in compatible mode
+ 15-09-2023 15:22:17:391 [pid=18911 tid=18911] NOTICE  cufio-drv:636 running in compatible mode
+ 15-09-2023 16:27:09:920 [pid=129705 tid=129705] NOTICE  cufio-drv:636 running in compatible mode
+ 15-09-2023 16:27:09:949 [pid=129704 tid=129704] NOTICE  cufio-drv:636 running in compatible mode
+ 15-09-2023 16:27:09:951 [pid=129702 tid=129702] NOTICE  cufio-drv:636 running in compatible mode
+ 15-09-2023 16:27:09:963 [pid=129707 tid=129707] NOTICE  cufio-drv:636 running in compatible mode
+ 15-09-2023 16:27:09:967 [pid=129703 tid=129703] NOTICE  cufio-drv:636 running in compatible mode
+ 15-09-2023 16:27:09:968 [pid=129706 tid=129706] NOTICE  cufio-drv:636 running in compatible mode
+ 16-09-2023 13:11:40:779 [pid=1034957 tid=1034957] NOTICE  cufio-drv:636 running in compatible mode
+ 16-09-2023 13:11:40:825 [pid=1034952 tid=1034952] NOTICE  cufio-drv:636 running in compatible mode
+ 16-09-2023 13:11:40:836 [pid=1034955 tid=1034955] NOTICE  cufio-drv:636 running in compatible mode
+ 16-09-2023 13:11:40:844 [pid=1034954 tid=1034954] NOTICE  cufio-drv:636 running in compatible mode
+ 16-09-2023 13:11:40:844 [pid=1034953 tid=1034953] NOTICE  cufio-drv:636 running in compatible mode
+ 16-09-2023 13:11:40:845 [pid=1034956 tid=1034956] NOTICE  cufio-drv:636 running in compatible mode
+ 16-09-2023 13:15:26:313 [pid=1042948 tid=1042948] NOTICE  cufio-drv:636 running in compatible mode
+ 16-09-2023 13:15:26:356 [pid=1042951 tid=1042951] NOTICE  cufio-drv:636 running in compatible mode
+ 16-09-2023 13:15:26:371 [pid=1042952 tid=1042952] NOTICE  cufio-drv:636 running in compatible mode
+ 16-09-2023 13:15:26:385 [pid=1042949 tid=1042949] NOTICE  cufio-drv:636 running in compatible mode
+ 16-09-2023 13:15:26:387 [pid=1042947 tid=1042947] NOTICE  cufio-drv:636 running in compatible mode
+ 16-09-2023 13:15:26:388 [pid=1042950 tid=1042950] NOTICE  cufio-drv:636 running in compatible mode
+ 26-09-2023 11:03:21:287 [pid=901653 tid=901653] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 26-09-2023 11:03:21:287 [pid=901653 tid=901653] ERROR  cufio:538 cuFile initialization failed
+ 26-09-2023 11:03:55:476 [pid=907811 tid=907811] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 26-09-2023 11:03:55:476 [pid=907811 tid=907811] ERROR  cufio:538 cuFile initialization failed
+ 26-09-2023 11:04:50:78 [pid=909461 tid=909461] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 26-09-2023 11:04:50:78 [pid=909461 tid=909461] ERROR  cufio:538 cuFile initialization failed
+ 26-09-2023 11:07:34:535 [pid=913475 tid=913475] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 26-09-2023 11:07:34:535 [pid=913475 tid=913475] ERROR  cufio:538 cuFile initialization failed
+ 26-09-2023 11:09:03:870 [pid=915994 tid=915994] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 26-09-2023 11:09:03:870 [pid=915994 tid=915994] ERROR  cufio:538 cuFile initialization failed
+ 26-09-2023 11:09:40:994 [pid=917460 tid=917460] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 26-09-2023 11:09:40:994 [pid=917460 tid=917460] ERROR  cufio:538 cuFile initialization failed
+ 26-09-2023 11:53:09:710 [pid=963706 tid=963706] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 26-09-2023 11:53:09:710 [pid=963706 tid=963706] ERROR  cufio:538 cuFile initialization failed
+ 26-09-2023 11:55:50:917 [pid=967038 tid=967038] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 26-09-2023 11:55:50:917 [pid=967038 tid=967038] ERROR  cufio:538 cuFile initialization failed
+ 26-09-2023 11:56:43:503 [pid=968816 tid=968816] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 26-09-2023 11:56:43:503 [pid=968816 tid=968816] ERROR  cufio:538 cuFile initialization failed
+ 26-09-2023 11:58:03:369 [pid=971659 tid=971659] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 26-09-2023 11:58:03:369 [pid=971659 tid=971659] ERROR  cufio:538 cuFile initialization failed
+ 26-09-2023 11:59:38:703 [pid=974176 tid=974176] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 26-09-2023 11:59:38:703 [pid=974176 tid=974176] ERROR  cufio:538 cuFile initialization failed
+ 26-09-2023 12:37:36:712 [pid=1015057 tid=1015057] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 26-09-2023 12:37:36:712 [pid=1015057 tid=1015057] ERROR  cufio:538 cuFile initialization failed
+ 26-09-2023 12:44:24:794 [pid=1022004 tid=1022004] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 26-09-2023 12:44:24:795 [pid=1022004 tid=1022004] ERROR  cufio:538 cuFile initialization failed
+ 26-09-2023 12:46:09:735 [pid=1024598 tid=1024598] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 26-09-2023 12:46:09:735 [pid=1024598 tid=1024598] ERROR  cufio:538 cuFile initialization failed
+ 26-09-2023 12:54:47:723 [pid=1035428 tid=1035428] NOTICE  cufio-drv:636 running in compatible mode
+ 26-09-2023 12:54:47:725 [pid=1035427 tid=1035427] NOTICE  cufio-drv:636 running in compatible mode
+ 26-09-2023 12:55:40:468 [pid=1036962 tid=1036962] NOTICE  cufio-drv:636 running in compatible mode
+ 26-09-2023 12:55:40:481 [pid=1036963 tid=1036963] NOTICE  cufio-drv:636 running in compatible mode
+ 26-09-2023 12:58:07:141 [pid=1041482 tid=1041482] NOTICE  cufio-drv:636 running in compatible mode
+ 26-09-2023 12:58:07:207 [pid=1041483 tid=1041483] NOTICE  cufio-drv:636 running in compatible mode
+ 26-09-2023 12:59:38:162 [pid=1043926 tid=1043926] NOTICE  cufio-drv:636 running in compatible mode
+ 26-09-2023 12:59:38:175 [pid=1043925 tid=1043925] NOTICE  cufio-drv:636 running in compatible mode
+ 26-09-2023 13:01:30:778 [pid=1047836 tid=1047836] NOTICE  cufio-drv:636 running in compatible mode
+ 26-09-2023 13:01:30:789 [pid=1047837 tid=1047837] NOTICE  cufio-drv:636 running in compatible mode
+ 26-09-2023 13:04:58:865 [pid=1053197 tid=1053197] NOTICE  cufio-drv:636 running in compatible mode
+ 26-09-2023 13:04:58:867 [pid=1053196 tid=1053196] NOTICE  cufio-drv:636 running in compatible mode
+ 26-09-2023 13:05:27:112 [pid=1053982 tid=1053982] NOTICE  cufio-drv:636 running in compatible mode
+ 26-09-2023 13:05:27:126 [pid=1053981 tid=1053981] NOTICE  cufio-drv:636 running in compatible mode
+ 26-09-2023 13:10:32:595 [pid=1060325 tid=1060325] NOTICE  cufio-drv:636 running in compatible mode
+ 26-09-2023 13:10:32:604 [pid=1060324 tid=1060324] NOTICE  cufio-drv:636 running in compatible mode
+ 26-09-2023 13:36:34:186 [pid=1087633 tid=1087633] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 26-09-2023 13:36:34:186 [pid=1087633 tid=1087633] ERROR  cufio:538 cuFile initialization failed
+ 27-09-2023 07:30:15:765 [pid=2150289 tid=2150289] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 27-09-2023 07:30:15:766 [pid=2150289 tid=2150289] ERROR  cufio:538 cuFile initialization failed
+ 27-09-2023 07:30:35:606 [pid=2150740 tid=2150740] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 27-09-2023 07:30:35:606 [pid=2150740 tid=2150740] ERROR  cufio:538 cuFile initialization failed
+ 27-09-2023 13:26:29:80 [pid=2595679 tid=2595679] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 13:26:29:114 [pid=2595681 tid=2595681] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 13:26:29:124 [pid=2595682 tid=2595682] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 13:26:29:126 [pid=2595678 tid=2595678] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 13:26:29:152 [pid=2595680 tid=2595680] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 13:26:29:153 [pid=2595683 tid=2595683] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 20:20:23:567 [pid=3097416 tid=3097416] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 20:20:23:595 [pid=3097412 tid=3097412] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 20:20:23:602 [pid=3097413 tid=3097413] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 20:20:23:634 [pid=3097415 tid=3097415] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 20:20:23:671 [pid=3097411 tid=3097411] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 20:20:23:678 [pid=3097414 tid=3097414] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 21:43:42:59 [pid=3175205 tid=3175205] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 21:43:42:72 [pid=3175207 tid=3175207] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 21:43:42:95 [pid=3175203 tid=3175203] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 21:43:42:95 [pid=3175204 tid=3175204] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 21:43:42:103 [pid=3175206 tid=3175206] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 21:43:42:103 [pid=3175202 tid=3175202] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 21:49:54:351 [pid=3184119 tid=3184119] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 27-09-2023 21:49:54:351 [pid=3184119 tid=3184119] ERROR  cufio:538 cuFile initialization failed
+ 27-09-2023 21:53:32:81 [pid=3187622 tid=3187622] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 27-09-2023 21:53:32:82 [pid=3187622 tid=3187622] ERROR  cufio:538 cuFile initialization failed
+ 27-09-2023 22:02:01:586 [pid=3193930 tid=3193930] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:02:01:667 [pid=3193932 tid=3193932] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:02:01:693 [pid=3193927 tid=3193927] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:02:01:722 [pid=3193928 tid=3193928] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:02:01:774 [pid=3193933 tid=3193933] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:02:01:785 [pid=3193929 tid=3193929] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:08:37:413 [pid=3204069 tid=3204069] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:08:37:434 [pid=3204067 tid=3204067] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:08:37:447 [pid=3204065 tid=3204065] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:08:37:457 [pid=3204066 tid=3204066] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:08:37:460 [pid=3204068 tid=3204068] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:08:37:460 [pid=3204064 tid=3204064] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:17:57:19 [pid=3215379 tid=3215379] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 27-09-2023 22:17:57:19 [pid=3215379 tid=3215379] ERROR  cufio:538 cuFile initialization failed
+ 27-09-2023 22:19:07:394 [pid=3217028 tid=3217028] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 27-09-2023 22:19:07:394 [pid=3217028 tid=3217028] ERROR  cufio:538 cuFile initialization failed
+ 27-09-2023 22:41:23:683 [pid=3233175 tid=3233175] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 27-09-2023 22:41:23:683 [pid=3233175 tid=3233175] ERROR  cufio:538 cuFile initialization failed
+ 27-09-2023 22:42:12:767 [pid=3234171 tid=3234171] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 27-09-2023 22:42:12:767 [pid=3234171 tid=3234171] ERROR  cufio:538 cuFile initialization failed
+ 27-09-2023 22:43:46:268 [pid=3235933 tid=3235933] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 27-09-2023 22:43:46:269 [pid=3235933 tid=3235933] ERROR  cufio:538 cuFile initialization failed
+ 27-09-2023 22:45:33:312 [pid=3237275 tid=3237275] ERROR  cufio:439 cuInit Failed, error CUDA_ERROR_UNKNOWN
+ 27-09-2023 22:45:33:312 [pid=3237275 tid=3237275] ERROR  cufio:538 cuFile initialization failed
+ 27-09-2023 22:49:04:65 [pid=3240868 tid=3240868] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:49:04:219 [pid=3240867 tid=3240867] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:49:04:225 [pid=3240864 tid=3240864] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:49:04:228 [pid=3240866 tid=3240866] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:49:04:228 [pid=3240865 tid=3240865] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:52:30:194 [pid=3247043 tid=3247043] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:52:30:239 [pid=3247040 tid=3247040] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:52:30:269 [pid=3247039 tid=3247039] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:52:30:270 [pid=3247041 tid=3247041] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 22:52:30:270 [pid=3247042 tid=3247042] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 23:01:52:911 [pid=3258731 tid=3258731] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 23:01:52:952 [pid=3258732 tid=3258732] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 23:01:52:954 [pid=3258730 tid=3258730] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 23:01:52:959 [pid=3258728 tid=3258728] NOTICE  cufio-drv:636 running in compatible mode
+ 27-09-2023 23:01:52:959 [pid=3258729 tid=3258729] NOTICE  cufio-drv:636 running in compatible mode
