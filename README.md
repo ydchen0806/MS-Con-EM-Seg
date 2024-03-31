@@ -41,11 +41,13 @@ python finetune.py -c seg_3d -m train -w [your pretrained path]
 
 ## Cite
 ```
-@article{chen2023learning,
+@inproceedings{chen2024learning,
   title={Learning multiscale consistency for self-supervised electron microscopy instance segmentation},
   author={Chen, Yinda and Huang, Wei and Liu, Xiaoyu and Deng, Shiyu and Chen, Qi and Xiong, Zhiwei},
-  journal={ICASSP 24},
-  year={2024}
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1566--1570},
+  year={2024},
+  organization={IEEE}
 }
 ```
 # Contact 
