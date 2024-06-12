@@ -51,6 +51,7 @@ python finetune.py -c seg_3d -m train -w [your pretrained path]
 ```
 
 ## Cite
+If you find this code or dataset useful in your research, please consider citing our paper:
 ```
 @inproceedings{chen2024learning,
   title={Learning multiscale consistency for self-supervised electron microscopy instance segmentation},
