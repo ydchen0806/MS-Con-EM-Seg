@@ -2,6 +2,11 @@
 This is an official implement for Learning Multiscale Consistency for Self-supervised Electron Microscopy Instance Segmentation (ICASSP 24)
 [\<Paper Link\>](https://arxiv.org/abs/2308.09917)
 
+<details>
+  <summary>Visitor Count</summary>
+  <img src="https://komarev.com/ghpvc/?username=ydchen0806&repo=MS-Con-EM-Seg" alt="Visitor Count">
+</details>
+
 ![The pipeline of our proposed methods](framework.png)
 
 ## Environment Setup
