@@ -1,6 +1,6 @@
 # MS-Con-EM-Seg
 This is an official implement for Learning Multiscale Consistency for Self-supervised Electron Microscopy Instance Segmentation (ICASSP 24)
-[\<Paper Link\>](https://ieeexplore.ieee.org/abstract/document/10446055)
+[Paper](https://ieeexplore.ieee.org/abstract/document/10446055)
 
 ![The pipeline of our proposed methods](framework.png)
 
